@@ -2,7 +2,7 @@
 
 Es una aplicacion creada para un curso de node
 
-*Ejecuta el codigo*
+**Ejecuta el codigo**
 
 ```JavaScript
     npm install
